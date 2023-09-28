@@ -8,7 +8,6 @@ import {
 import Contact from './Contact.js';
 
 import MapPage from "./Page/MapPage";
-import Navbar from "./navbar";
 
 import Home from "./Home";
 
