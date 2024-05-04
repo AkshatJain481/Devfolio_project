@@ -3,7 +3,6 @@ import { useLocation, Link, useParams } from "react-router-dom";
 // import "../App.css";
 import style1 from "bootstrap/dist/css/bootstrap.min.css";
 
-import Navbar from "../navbar";
 import { click } from "@testing-library/user-event/dist/click";
 const Sidebar = () => {
   const { pathname } = useLocation();
